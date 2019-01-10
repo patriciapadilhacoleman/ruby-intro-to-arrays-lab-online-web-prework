@@ -22,4 +22,8 @@ def third_element(arr)
   
 end
 
-def 
+def last_element(arr)
+  
+  arr[-1]
+
+end
